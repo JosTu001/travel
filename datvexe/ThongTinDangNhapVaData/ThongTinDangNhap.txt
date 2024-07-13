@@ -1,0 +1,6 @@
+Đăng nhập tài khoản admin:
+- email: quyen@gmail.com
+- pass: 123456
+Đăng nhập tài khoản khách hàng:
+- email: trucquyentran@gmail.com
+- pass: 12345678
